@@ -13,28 +13,31 @@
 # 2020-TODAY
 
 > [Essencials](github.com/toddlewis-studio/tls-essencials)<br>
+> *2020-2020*<br>
 
-*2020-2020*<br>
 **Summary**<br>
-A daily affirmation, goal keeper, budgeting, tarot card reading tool.<br>
-**Technology**<br>
+Daily affirmation, goal keeper, budgeting, tarot card reading tool.<br>
+
+**Technology**
 * Frontend: Javascript, Firebase, Stripe API
 * Backend: NodeJS, Express, Firebase
 
 > [Wisp](github.com/toddlewis-studio/tls-wisp)<br>
+> *2020-2024*<br>
 
-*2020-2024*<br>
 **Summary**<br>
 NFT online realtime webapp video game.<br>
-**Technology**<br>
+
+**Technology**
 * Frontend: Javascript, Firebase
 * Backend: NodeJS, Firebase, Solana
 
 > [Paint Persona](github.com/toddlewis-studio/paint-persona)<br>
+> *2023-2024*<br>
 
-*2023-2024*<br>
 **Summary**<br>
 NFT token webapp video game.<br>
-**Technology**<br>
+
+**Technology**
 * Frontend: Javascript, Firebase
 * Backend: NodeJS, Firebase, Solana
