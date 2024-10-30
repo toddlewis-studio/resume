@@ -10,7 +10,7 @@
 * Bridge 2 Solutions 2017-2018, Frontend - Cash back rewards
 * UPS 2019-2020, Frontend - Same day shipping
 
-# 2020-TODAY
+## 2020-TODAY
 
 > [Essencials](github.com/toddlewis-studio/tls-essencials)<br>
 > *2020-2020*<br>
@@ -22,6 +22,8 @@ Daily affirmation, goal keeper, budgeting, tarot card reading tool.<br>
 * Frontend: Javascript, Firebase, Stripe API
 * Backend: NodeJS, Express, Firebase
 
+***
+
 > [Wisp](github.com/toddlewis-studio/tls-wisp)<br>
 > *2020-2024*<br>
 
@@ -31,6 +33,8 @@ NFT online realtime webapp video game.<br>
 **Technology**
 * Frontend: Javascript, Firebase
 * Backend: NodeJS, Firebase, Solana
+
+***
 
 > [Paint Persona](github.com/toddlewis-studio/paint-persona)<br>
 > *2023-2024*<br>
