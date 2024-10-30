@@ -19,8 +19,8 @@
 Daily affirmation, goal keeper, budgeting, tarot card reading tool.<br>
 
 **Technology**
-* Frontend: Javascript, Firebase, Stripe API
-* Backend: NodeJS, Express, Firebase
+* Frontend: Javascript, Stripe API
+* Backend: NodeJS, Express, replDB
 
 ***
 
